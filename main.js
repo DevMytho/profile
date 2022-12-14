@@ -8,18 +8,7 @@ const typed = new Typed(".typing", {
 
 // Theme changer
 const themes = [
-  "#9affe1",
-  "#abff9a",
-  "#ff9a9a",
-  "#f5ff9a",
-  "#9aadff",
-  "#ffd280",
-  "#adff6b",
-  "#6bfaff",
-  "#55F7DD",
-  "#7BF774",
-  "#F770F4",
-  "#E2F780",
+"#B9C7B6", "#EEC1BB", "#DFE799", "#EED3B5", "#FEA9CD"
 ];
 const root = document.querySelector(":root");
 const themeToggle = document.querySelector("#main-name");
