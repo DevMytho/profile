@@ -242,8 +242,8 @@ a {
 }
 
 .social__icons {
-  width: 160px;
-  font-size: 60%;
+  width: 180px;
+  font-size: 50%;
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
@@ -268,8 +268,8 @@ a {
   }
 
   .social__icons {
-    font-size: 50%;
-    width: 150px;
+    font-size: 40%;
+    width: 160px;
   }
   #navbar__logo {
     font-size: 90%;
@@ -285,8 +285,8 @@ a {
   }
 
   .social__icons {
-    font-size: 45%;
-    width: 140px;
+    font-size: 30%;
+    width: 120px;
   }
 }
 
