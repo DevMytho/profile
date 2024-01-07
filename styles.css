@@ -454,6 +454,12 @@ a {
 .timeline__content h1 a {
   color: white;
 }
+
+.timeline__content a {
+  font-weight: 500;
+  color: var(--main-accent);
+}
+
 .timeline__content p {
   font-size: 0.9rem;
   line-height: 20px;
