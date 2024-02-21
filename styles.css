@@ -233,6 +233,14 @@ a {
   cursor: pointer;
 }
 
+.hero img {
+  display: flex;
+  border-radius: 55px;
+  width: 50vh;
+  padding: 10px;
+  margin-left: 75%;
+}
+
 .home__section p {
   color: white;
   opacity: 70%;
